@@ -5,3 +5,4 @@ tunnels:
     proto: http
     addr: 80
     hostname: explorer.streamux.cloud
+version: 2
